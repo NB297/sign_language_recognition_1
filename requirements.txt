@@ -1,7 +1,0 @@
-opencv-python
-opencv-python-headless
-pillow
-numpy
-protobuf==3.19.*
-ultralytics
-dill
